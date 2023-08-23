@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Aug 23  2023
-@author: Bright Kusi Appiah and Precious Ebubechukwu
+@author: Bright Kusi Appiah and Precious Adaolisa Ebubechukwu
 """
 from fabric.api import local, env
 from datetime import datetime
