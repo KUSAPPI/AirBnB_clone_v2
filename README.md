@@ -76,15 +76,8 @@ This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we
 
 ## AUTHORS
 
-**Luis Miguel Vargas**
-
-* [Github @luismvargasg](https://github.com/luismvargasg)
-* [LinkedIn - Luis Miguel Vargas](https://www.linkedin.com/in/luismvargasg/)
-
-**Robinson Montes**
-
-* [Github @mecomonteshbtn](https://github.com/mecomonteshbtn)
-* [LinkedIn - Robinson Montes Gómez](https://www.linkedin.com/in/robinson-montes-g%C3%B3mez/)
+**Bright Kusi Appiah**
+**Precious Ebubechukwu**
 
 ## License
 
