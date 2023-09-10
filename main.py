@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
- Test cities access from a state
+ Test cities access from a state in AirBnB
 """
 from models import storage
 from models.state import State
